@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 def plot_train_stat_per_epoch(history):
     acc = history['binary_accuracy']
