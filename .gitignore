@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
+.env/
 glove.twitter.27B.100d.txt
 *.csv
+*.hdf5
+*.h5
